@@ -1,6 +1,6 @@
 # Graph Navigator
 
-**Author:** Ivan Petrov
+**Author:** Kira Ivanova
 
 ## Description
 Console application for working with graphs. Supports creation of directed, undirected, and weighted graphs, traversal algorithms (BFS/DFS), and shortest path finding (Dijkstra/BFS). Data persistence via JSON.
